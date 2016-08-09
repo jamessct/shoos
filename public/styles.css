@@ -1,0 +1,24 @@
+body {
+  background-image: url("http://www.cooganlondon.com/blog/wp-content/uploads/Hoxton-Mens-Brogues-Boots.jpg");
+  background-size: 1450px, 950px;
+}
+
+h1 {
+  font-family: "sans serif";
+  color: red;
+}
+
+h3 {
+  font-family: "arial";
+  color: grey;
+}
+
+p {
+  font-family: "arial";
+  color: turquoise;
+}
+
+label {
+  font-family: "sans serif";
+  color: turquoise;
+}

@@ -1,0 +1,9 @@
+<h1>SHOOS</h1>
+
+<% @shoos.each do |shoo| %>
+  <p>NAME: <%= shoo.pretty_name() %></p>
+  <p>ADDRESS: <%= shoo.address %></p>
+  <p>ORDER: <%= shoo.quantity %> x size <%= shoo.size %></p>
+  <hr>
+<% end %>
+
